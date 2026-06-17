@@ -43,7 +43,7 @@ While my main focus is the backend, I also have experience designing and buildin
         <tr>
           <td><img src="https://img.shields.io/badge/Luau-00A2FF?style=flat&logo=roblox&logoColor=white" alt="Luau" /></td>
           <td>Roblox game development.</td>
-          <td><a href="https://github.com/Synphrax/repo-link">Project Name</a></td>
+          <td><a href="https://github.com/Synphrax/roblox-enemy-service">Project Name</a></td>
         </tr>
       </table>
     </td>
